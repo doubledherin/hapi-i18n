@@ -1,0 +1,17 @@
+{
+  "name": "hapi-i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "accept": "^2.1.4",
+    "handlebars": "^4.0.12",
+    "hapi": "^13.5.3",
+    "vision": "^4.1.1"
+  }
+}
